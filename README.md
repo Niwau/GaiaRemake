@@ -1,4 +1,5 @@
-# Projeto Gaia 2.0 🌳
+# Projeto Gaia 2.0 | https://niwau.github.io/GaiaRemake/
+
 Esse projeto é um remake de um outro projeto chamado Gaia. A primeira versão desse projeto foi desenvolvida em um Hackathon. Decidi recriar a landing page aplicando responsividade e outras propriedades que aprendi.
 
 # Página Inicial 🎈
